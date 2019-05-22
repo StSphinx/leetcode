@@ -1,1 +1,12 @@
 .idea/
+*.dll
+*.exe
+*.pyd
+*.py
+*.ps1
+*.tcl
+*.pth
+*.egg
+*.cfg
+*.bat
+venv/Scripts/activate
